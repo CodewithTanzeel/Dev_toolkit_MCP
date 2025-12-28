@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "devkit-max": {
+            "command": "python",
+            "args": [
+                "C:\\Users\\FATTANI COMPUTERS\\OneDrive\\Documents\\Dev_toolkit_MCP\\devkit-max\\server.py"
+            ]
+        }
+    }
+}
