@@ -155,7 +155,7 @@ Tool: Color Converter
 Result:
 - HEX: `#FF5733`
 - RGB: `rgb(255, 87, 51)`
-- HSL: `hsl(11, 100%, 60%)`
+- HSL: `hsla(11, 73%, 24%, 1.00)`
 - CSS: `coral`
 
 ### 9. "Encode 'Hello World' to Base64"
